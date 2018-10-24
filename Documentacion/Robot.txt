@@ -1,0 +1,25 @@
+Objetivo General: Un robot que lleve minimo la computadora, lo siga a donde usted vaya pero no sea un obstaculo
+
+Requerimientos Necesarios para SSG Firulais:
+Lugares por los que pase 
+
+   Tamaño
+   Precio 
+   Seguridad
+   -Plus 
+
+Como decirle al robot que hacer y que el sepa que hacer?
+Como seguirlo sin ser un obstaculo?
+Como reconocer que es Andre a quien tiene que seguir
+
+* Poder llevarlo
+* No puede usar de las baterias de la silla, puede agregarse una en el espacio que queda
+* Boton de panico para que se guarde
+* Tiene que tener el cuidado de llevar comida, una compu(cosas fragiles)
+
+
+
+Estructura:
+Tiene que tener la capacidad ir hacia delante y atras, se pueden tomar en cuenta los motores y el inversor
+Cola de milano (hace movimiento de mesa)
+Orugas en el lugar de las llantas (como opcion)
